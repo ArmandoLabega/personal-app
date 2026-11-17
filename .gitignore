@@ -1,0 +1,10 @@
+.idea/
+*.iml
+.vscode/
+
+# Secrets
+.env
+.env.local
+
+# Windows
+Thumbs.db
